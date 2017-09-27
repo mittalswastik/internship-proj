@@ -4,7 +4,7 @@ sample project
 
 # React ES6 Webpack Boilerplate
 
-built on boilerplate by *[vasanthk] https://github.com/vasanthk/react-es6-webpack-boilerplate
+built on boilerplate from https://github.com/vasanthk/react-es6-webpack-boilerplate
 
 
 ### Usage
